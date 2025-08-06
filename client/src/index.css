@@ -17,7 +17,7 @@
 } */
  
 * {
-  cursor: none !important;
+  cursor: default !important;
 }
 
 body.menu-open {
